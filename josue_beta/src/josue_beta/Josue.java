@@ -11,6 +11,7 @@ public class Josue {
 		int n2 = 7;
 		int resultado = soma(n1,n2);
 		System.out.println(resultado);
+		System.out.println("FORMATE O HD!\n");
 	}
 
 }
